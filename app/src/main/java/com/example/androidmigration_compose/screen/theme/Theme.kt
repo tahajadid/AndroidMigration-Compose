@@ -1,4 +1,4 @@
-package com.example.androidmigration_compose.ui.theme
+package com.example.androidmigration_compose.screen.theme
 
 import android.app.Activity
 import android.os.Build
